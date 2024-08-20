@@ -1,0 +1,64 @@
+[
+  {
+    "code": 201,
+    "message": "Berhasil melakukan pendaftaran.",
+    "data": [
+      {
+        "uid": "EcjCg9reE1UKP1d74OF05jJMcUV2",
+        "email": "royaziz4@agmail.com",
+        "emailVerified": false,
+        "isAnonymous": false,
+        "providerData": [
+            {
+                "providerId": "password",
+                "uid": "royaziz4@agmail.com",
+                "displayName": null,
+                "email": "royaziz4@agmail.com",
+                "phoneNumber": null,
+                "photoURL": null
+            }
+        ],
+        "stsTokenManager": {
+            "refreshToken": "AMf-vBzW_jV3tSAPoBfe80SsDWtmE-lcQ8wJjN7qOzKPMfw7yxn_KhprMyr2hNfG6gok7jbQEHpCDLvYDU3Hx4RwzIGcLvTGzSCWGTBTUfj0hd-KvcfonzxKBZuNPPotP2j-UaNgldngrg9bZkDid7RbzSEnZ4AOwqPlPgH0aPcOSXAqJSSMdYvlv8vVbYt0TSojS_qB6O-N3LRtYNEIA9TdXTU97q7QLw",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBjYjQyNzQyYWU1OGY0ZGE0NjdiY2RhZWE0Yjk1YTI5ZmJhMGM1ZjkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20va2FzaXItY2VyZGFzLTEzOTQiLCJhdWQiOiJrYXNpci1jZXJkYXMtMTM5NCIsImF1dGhfdGltZSI6MTcyMjA5NTMxNywidXNlcl9pZCI6IkVjakNnOXJlRTFVS1AxZDc0T0YwNWpKTWNVVjIiLCJzdWIiOiJFY2pDZzlyZUUxVUtQMWQ3NE9GMDVqSk1jVVYyIiwiaWF0IjoxNzIyMDk1MzE3LCJleHAiOjE3MjIwOTg5MTcsImVtYWlsIjoicm95YXppejRAYWdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJyb3lheml6NEBhZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.o5fF89SpsayutscfLTIJrje3tlaaFmqgRQKhGXh06hVGmgcT6b2CRc1MEs9CboSSRkEXslH0DIJ9D4NxPPvGG8CPNTPW16oCPMm0UDU4pq2GhinE27h7ZOTNDxzVJO-RdD7zX7CxzdgfA56yklhgXOZt1OkliXR_c5StZomMY0ZYoK3gsbHCExC38LjfmEZNZVwWMiJAWtdqoFFfH320Fw5C1QNAGbLag4_Njsd-wMDsJY91yOlKnRg52nQZCJ3NGA53qJ2gyj2dVIdewVqYad28OIIt2KQ2e9dJz0W9CZWLt1FiyEtcZkOCLSXn8ukveV8ieWauvnZS5VrwW5TbeQ",
+            "expirationTime": 1722098917539
+        },
+        "createdAt": "1722095317674",
+        "lastLoginAt": "1722095317674",
+        "apiKey": "AIzaSyCTz52ot1rdzGH1zcUk0DpHrfotyV0ZTUM",
+        "appName": "[DEFAULT]"
+      }
+    ]
+  },
+  {
+    "code": 201,
+    "message": "Berhasil melakukan login.",
+    "data": [
+      {
+        "uid": "Ar1n1W9m2SVPKI0yk4Ws1lIWcq43",
+        "email": "test@gmail.com",
+        "emailVerified": false,
+        "isAnonymous": false,
+        "providerData": [
+            {
+                "providerId": "password",
+                "uid": "test@gmail.com",
+                "displayName": null,
+                "email": "test@gmail.com",
+                "phoneNumber": null,
+                "photoURL": null
+            }
+        ],
+        "stsTokenManager": {
+            "refreshToken": "AMf-vBzFAT2jpsSNPWOVYLBHd7sVHE3DBOo8UZ8vW8er2wQJ9BK3-js96Nrf1QaA4vRYH2zqRB70FLtWTopLFOHrtK1WF6eNoXSOFF3ViVdav7VMzRAOdQE8Rwr9y8j2fSo90FR6jRN5cdeSWv70kMPKBWoFl_DdagCLtdLDR-ie4sJaairKVJkA0vF6TpwyUwZPa8zr5Q_BtJ-HHAcR1bcm0ym2yMrsZw",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBjYjQyNzQyYWU1OGY0ZGE0NjdiY2RhZWE0Yjk1YTI5ZmJhMGM1ZjkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20va2FzaXItY2VyZGFzLTEzOTQiLCJhdWQiOiJrYXNpci1jZXJkYXMtMTM5NCIsImF1dGhfdGltZSI6MTcyMjEyOTQyMCwidXNlcl9pZCI6IkFyMW4xVzltMlNWUEtJMHlrNFdzMWxJV2NxNDMiLCJzdWIiOiJBcjFuMVc5bTJTVlBLSTB5azRXczFsSVdjcTQzIiwiaWF0IjoxNzIyMTI5NDIwLCJleHAiOjE3MjIxMzMwMjAsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsidGVzdEBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.tWohLXLChtL6Vw7akRZNHABFDSnEzX-NtzBgBgBCFG6Xk8vDFE_vm3VVKw3rds96z4EnAVgdUGzXwoGMWcMzYYcZNoI6ytrVsF9-kbRx4Hp68Ufm6FjYwt995uabDdQNMpPa5QSbFPPebjgQK0V9ABFk6uopecSZ33wna62aZcrvAPJBHzKCjK74wYqNWSHOWJhXUAHjA9NfnSmeh8nSB3bLIiAfYwN3G3tVZidVZIpgISVt7kx9hTSt1P9_QwsbY_xn3Hm11EwMsHyYqikKBa810WoHgXjfEC8RDAxxpmeCQC9XfGfDgIWqVt_qKUPDRJxiT7XdDfpk5vUAKkiIHw",
+            "expirationTime": 1722133019958
+        },
+        "createdAt": "1722058225806",
+        "lastLoginAt": "1722129420114",
+        "apiKey": "AIzaSyCTz52ot1rdzGH1zcUk0DpHrfotyV0ZTUM",
+        "appName": "[DEFAULT]"
+      }
+    ]
+  }
+]
